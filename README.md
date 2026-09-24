@@ -162,5 +162,8 @@ Automatically generated concise summary using AWS Bedrock.
 ---
 
 ## 📜 License
+---
+
+© 2026 Harshini. All Rights Reserved.
 
 This project is for educational purposes. Feel free to modify and use it as needed.
