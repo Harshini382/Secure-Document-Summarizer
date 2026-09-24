@@ -162,7 +162,6 @@ Automatically generated concise summary using AWS Bedrock.
 ---
 
 ## 📜 License
----
 
 © 2026 Harshini. All Rights Reserved.
 
